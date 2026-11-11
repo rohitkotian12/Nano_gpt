@@ -1,4 +1,4 @@
-# nanoGPT: Character-Level Language Models from Scratch
+# NanoGPT: Character-Level Language Models from Scratch
 
 A modular, tested PyTorch implementation of character-level language models
 
