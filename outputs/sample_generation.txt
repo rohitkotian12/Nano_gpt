@@ -1,0 +1,56 @@
+# Sample generation
+checkpoint : checkpoints/gpt_best.pt
+model      : gpt, 816.7K params, 2000 training iters, best val loss 1.7053
+settings   : temperature=0.8 top_k=40 top_p=None max_new_tokens=600 seed=1337
+
+======================================================================
+--- sample 1 (prompt: 'ROMEO:', seed 1337) ---
+ROMEO:
+Why, here dear Edward, longs ears and
+Thou speak that storm with this bany.
+
+POLIXENES:
+Ay, and it could your regocestands of the way.
+
+MENENIUS:
+This is paint to a vark the pray'd of twill.
+
+COMINIUS:
+Trutke she he hands blood hate;
+Wells gone my treap to daught to the fail
+for liege. But well them vent my wears, I am this son that.
+And thee: how is your done out adving thou make
+The hily sworth of my great: by your facease is clood
+Thou to repart believed weded he bearer. Master'd, chur fair
+The would To your thing.
+
+Second Citizen:
+Or sking the seem, and gall not hearen all strudken.
+
+LUCE
+
+======================================================================
+--- sample 2 (prompt: 'ROMEO:', seed 1338) ---
+ROMEO:
+That had I had a forgot the grace of heaven against;
+More from he serving and that he man you, which our return,
+To the vales what than I legg.- Forth York,
+I am are love Partor's a brother wells.
+
+LUCIO:
+Now, but I pray God madam, comes I, and his stable fair?
+
+ISABELLA:
+We make the to-much is to more.
+
+GLOUCESTER:
+Why with a mallish grown my graved and grace the windle all
+To wrongth wash is as the visience, as with a country
+words, to better him live make of heaven give everel the lords.
+
+DUKE VINCENTIO:
+I seek, and blood the hand.
+
+MENENIUS:
+He then,
+Or rude your a rest of we shall the de

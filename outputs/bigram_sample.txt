@@ -1,0 +1,18 @@
+# Sample generation
+checkpoint : checkpoints/bigram_best.pt
+model      : bigram, 4.2K params, 1500 training iters, best val loss 2.4838
+settings   : temperature=1.0 top_k=None top_p=None max_new_tokens=300 seed=1337
+
+======================================================================
+--- sample 1 (prompt: 'ROMEO:', seed 1337) ---
+ROMEO:
+
+Cllan tcede.
+Y in, lroloundee waindonte ate t,-bou wist ic wsostte; bea yonsenimser se ay g pat ancey mou ber s LI'sl tem'ls tofr?
+
+KESod, IAg thorvere nonifit deanche
+Whatrerath; shan iseress tode ish rithoo bs heer n
+ARY:
+With, tinoes selonsen l'se ph POLURI af, tye me:
+Pr.
+Shly a au a owe hotem
